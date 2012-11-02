@@ -1,0 +1,7 @@
+Directions for creating your own application
+
+1) 
+
+
+Running Specs:
+  rake spec SPEC=spec/some_spec.rb SPEC_OPTS="-l 108"

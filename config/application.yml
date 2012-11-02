@@ -1,0 +1,24 @@
+---
+  # common settings go here
+  common:
+    logging:
+      filter_parameters: []
+    
+    #database:<%= db_yaml %>  
+  
+  # environment settings go here and will override the global ones
+  test:
+    setting_name: stuff
+    #database:<%= db_yaml %>
+          
+  development:
+    setting_name: stuff
+    #database:<%= db_yaml %>
+  
+  staging:
+    setting_name: stuff
+    #database:<%= db_yaml %>
+
+  production:
+    setting_name: stuff
+    #database:<%= db_yaml %>

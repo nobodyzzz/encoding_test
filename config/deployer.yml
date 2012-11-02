@@ -1,0 +1,7 @@
+---
+  common:
+    deploy_name: <%= deploy_name %>
+    global_session: true
+    apps:
+      "/": 
+        root: "."

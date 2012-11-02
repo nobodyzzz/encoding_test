@@ -1,0 +1,4 @@
+--- 
+config_ignore_list: 
+# Example: uncomment below line to ignore the maestro config file
+#- app/v1/maestro_config.rb
